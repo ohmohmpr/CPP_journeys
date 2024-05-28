@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/app/main.cpp.o -o main  -Wl,-rpath,/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/exercise/homework_1/build:/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/exercise/homework_1/open3d/lib libmy_viewer.so ../open3d/lib/libOpen3D.so 

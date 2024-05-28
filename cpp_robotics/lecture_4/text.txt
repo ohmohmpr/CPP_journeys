@@ -1,0 +1,10 @@
+standard library 
+standard algorithm
+
+memory management
+
+stack memory
+-when we need more memory -> use heap -> dynamicly allocate
+
+how can we access heap memory?
+-> malloc 

@@ -1,0 +1,8 @@
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/CMakeFiles/edit_cache.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/CMakeFiles/rebuild_cache.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/my_vector/CMakeFiles/my_vector.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/my_vector/CMakeFiles/edit_cache.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/my_vector/CMakeFiles/rebuild_cache.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/apps/CMakeFiles/main.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/apps/CMakeFiles/edit_cache.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/ex2/build/apps/CMakeFiles/rebuild_cache.dir

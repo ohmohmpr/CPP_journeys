@@ -1,0 +1,4 @@
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/exercise/homework_1/build/CMakeFiles/my_viewer.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/exercise/homework_1/build/CMakeFiles/main.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/exercise/homework_1/build/CMakeFiles/edit_cache.dir
+/home/ohmpr/master_bonn/Modules/4th_semester/cpp/cpp_robotics/exercise/homework_1/build/CMakeFiles/rebuild_cache.dir
