@@ -1,0 +1,13 @@
+https://stackoverflow.com/questions/15606097/stroupstrup-graphics-library-errors
+
+compliation error
+https://groups.google.com/g/ppp-public/c/BtlzdWGuQpQ/m/KuDN4u-SPKgJ
+
+Graph.cpp
+https://stackoverflow.com/questions/67831917/cannot-convert-stdifstream-aka-stdbasic-ifstreamchar-to-bool-in-re
+
+undefined reference to `Fl_JPEG_Image::Fl_JPEG_Image(char const*)'
+https://stackoverflow.com/questions/39348645/undefined-reference-using-fltk-with-g
+
+
+g++ -w -Wall -std=c++11 Graph.cpp Window.cpp GUI.cpp Simple_window.cpp 12_3.cpp `fltk-config --ldflags --use-images` -o main
